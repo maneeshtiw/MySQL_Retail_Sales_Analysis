@@ -1,7 +1,7 @@
 # SQL_Retail_Sales_Analysis Project
 
-Project Title: Retail Sales Analysis
-Database: Data
+Project Title: Retail Sales Analysis.
+Database: Data.
 
 Objectives
 ----------------
