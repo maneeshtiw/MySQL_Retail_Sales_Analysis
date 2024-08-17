@@ -1,1 +1,1 @@
-# MySQL_Retail_Sales_Analysis
+# SQL_Retail_Sales_Analysis
